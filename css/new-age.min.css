@@ -26,7 +26,7 @@ img.download {
 
 #mainNav .navbar-brand {
   font-family:"permanent marker";
-  color:#4fb5ff !important;
+  color:black !important;
 }
 
 .features {
@@ -35,9 +35,17 @@ img.download {
 
 
 #mainNav {
-  background:black !important;
+  background:#4fb5ff !important;
 }
 
 .none {
   display:none !important;
+}
+
+p {
+  color:black;
+}
+
+footer {
+  background:#4fb5ff !important;
 }
